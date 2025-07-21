@@ -1,4 +1,4 @@
-pub static WORDS: &[&str] = &[
+pub const WORDS: &[&'static str; 3103] = &[
     "abaft","abase","abate","abbey","abbot","abhor","abide","abler","abode","about","above","abuse",
     "abyss","ached","aches","acids","acorn","acres","acrid","acted","actor","acute","adage","adapt",
     "added","adder","adept","adieu","admit","adobe","adopt","adore","adorn","adult","aegis","aeons",
